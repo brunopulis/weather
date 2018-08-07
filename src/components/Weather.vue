@@ -17,7 +17,7 @@
                 <path d="M209.5 817.5h-21L199 828z" data-name="Min Arrow" fill="#00ff9b"></path>
             </svg>
 
-            <span class="min-temperature__text">{{ items.main.temp_min }}</span>
+            <span class="min-temperature__text"></span>
             <span class="min__text">Min</span>
         </div>
 
@@ -26,11 +26,11 @@
                 <path d="M449.5 830.5h21L460 820z" data-name="Max Arrow" fill="red"></path>
             </svg>
 
-            <span class="max-temperature__text">{{ items.main.temp_max }}</span>
+            <span class="max-temperature__text"></span>
             <span class="max__text">Max</span>
         </div>
     </section>
-  </section> 
+  </section>
 </template>
 
 <script>
