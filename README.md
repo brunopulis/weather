@@ -1,4 +1,6 @@
-# weather
+[![Coverage Status](https://coveralls.io/repos/github/brunopulis/weather/badge.svg?branch=master)](https://coveralls.io/github/brunopulis/weather?branch=master)
+
+# Weather
 
 ## Project setup
 ```
